@@ -1,1 +1,1 @@
-# jcu-geonetworkserver
+# jcu-geonetwork
